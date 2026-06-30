@@ -23,7 +23,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 //#define USE_MATRIX_I2C
 
 #define TAPPING_TERM 150
-#define HOLD_ON_OTHER_KEY_PRESS
 #define SPLIT_WATCHDOG_ENABLE
 #define SPLIT_USB_DETECT
 #define SPLIT_USB_TIMEOUT 2500
