@@ -22,9 +22,11 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 //#define USE_MATRIX_I2C
 
-#define QUICK_TAP_TERM 0
 #define TAPPING_TERM 150
-#define PERMISSIVE_HOLD
+#define HOLD_ON_OTHER_KEY_PRESS
+#define SPLIT_WATCHDOG_ENABLE
+#define SPLIT_USB_DETECT
+#define SPLIT_USB_TIMEOUT 2500
 
 // #ifdef RGBLIGHT_ENABLE
 //     #define RGBLIGHT_EFFECT_BREATHING
