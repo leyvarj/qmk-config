@@ -49,10 +49,9 @@ mute, play/pause, track skip). Disable all thumb slots. Hold the layer key with 
 
 ## Tapping Configuration
 
-| Setting                | Value   | Purpose                                  |
-| ---------------------- | ------- | ---------------------------------------- |
-| TAPPING_TERM           | 150     | Mod tap recognition window               |
-| HOLD_ON_OTHER_KEY_PRESS | enabled | Require another key press to trigger mod |
+| Setting      | Value | Purpose                            |
+| ------------ | ----- | ---------------------------------- |
+| TAPPING_TERM | 150   | Mod tap recognition window         |
 
 ## Build and Flash
 
